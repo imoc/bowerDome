@@ -1,0 +1,26 @@
+{
+  "name": "bowerDome",
+  "description": "",
+  "main": "",
+  "authors": [
+    "DaVinci <dao.dev@qq.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "key1",
+    "key2"
+  ],
+  "homepage": "http://davinci.duapp.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "d3": "^4.0.0"
+  }
+}
