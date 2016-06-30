@@ -18,7 +18,7 @@
     "test",
     "tests"
   ],
-  "private": true,
+  "private": false,
   "dependencies": {
     "bootstrap": "^3.3.6",
     "d3": "^4.0.0"
